@@ -6,11 +6,8 @@ Este repositório contém arquivos de configuração personalizados para o Vim e
 
 - [Pré-requisitos](#pré-requisitos)
 - [Plugins](#plugins)
-- [Instalação](#instalação)
 - [Configurando o Vim](#configurando-o-vim)
 - [Configurando o Neovim](#configurando-o-neovim)
-- [Atualizando as Configurações](#atualizando-as-configurações)
-- [Temas](#temas)
 
 ## Pré-requisitos
 
