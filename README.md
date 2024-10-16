@@ -42,7 +42,7 @@ Siga os passos abaixo para baixar e aplicar as configurações deste repositóri
    
 3. **Copie o arquivo .vimrc para o diretório home:**
    ```bash
-   cp .vimrc ~/.vimrc
+   cp config.vim ~/.vimrc
    ```
 
 4. **Instale os plugins:**
@@ -59,7 +59,7 @@ Siga os passos abaixo para baixar e aplicar as configurações deste repositóri
 
 2. **Copie o arquivo init.vim para o diretório de configuração do Neovim:**
    ```bash
-   cp init.vim ~/.config/nvim/init.vim
+   cp config.vim ~/.config/nvim/init.vim
    ```
 
 3. **Instale os plugins:**
