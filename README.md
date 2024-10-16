@@ -16,8 +16,12 @@ Este repositório contém arquivos de configuração personalizados para o Vim e
 
 Antes de começar, certifique-se de que você tenha o Vim ou o Neovim instalados no seu sistema.
 
-- **Instalar Vim**: ```bash apt install vim ```
-- **Instalar Neovim**: ```bash apt install neovim ```
+- **Instalar Vim**: ```bash
+                    apt install vim
+                    ```
+- **Instalar Neovim**: ```bash
+                       apt install neovim
+                       ```
 
 ## Instalação
 
@@ -27,4 +31,6 @@ Siga os passos abaixo para baixar e aplicar as configurações deste repositóri
 
    No terminal, execute o comando:
 
-   ```bash git clone https://github.com/Maycon40/configuracao_nvim.git ```
+   ```bash
+   git clone https://github.com/Maycon40/configuracao_nvim.git
+   ```
