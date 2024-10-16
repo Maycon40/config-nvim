@@ -38,7 +38,7 @@ Siga os passos abaixo para baixar e aplicar as configurações deste repositóri
    No terminal, execute o comando:
 
    ```bash
-   git clone https://github.com/Maycon40/config_nvim.git
+   git clone https://github.com/Maycon40/config-nvim.git
    ```
    
 2. **Navegue até o diretório do repositório:**
