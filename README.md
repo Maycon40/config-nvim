@@ -23,7 +23,7 @@ Antes de começar, certifique-se de que você tenha o Vim ou o Neovim instalados
                        apt install neovim
                        ```
 
-## Instalação
+## Configurando o Vim
 
 Siga os passos abaixo para baixar e aplicar as configurações deste repositório.
 
@@ -33,4 +33,36 @@ Siga os passos abaixo para baixar e aplicar as configurações deste repositóri
 
    ```bash
    git clone https://github.com/Maycon40/configuracao_nvim.git
+   ```
+   
+2. **Navegue até o diretório do repositório:**
+   ```bash
+   cd config-nvim
+   ```
+   
+3. **Copie o arquivo .vimrc para o diretório home:**
+   ```bash
+   cp .vimrc ~/.vimrc
+   ```
+
+4. **Instale os plugins:**
+   ```bash
+   vim +PlugInstall +qall
+   ```
+   
+## Configurando o Neovim
+   
+1. **Crie o diretório de configuração do Neovim, se necessário:**
+   ```bash
+   mkdir -p ~/.config/nvim
+   ```
+
+2. **Copie o arquivo init.vim para o diretório de configuração do Neovim:**
+   ```bash
+   cp init.vim ~/.config/nvim/init.vim
+   ```
+
+3. **Instale os plugins:**
+   ```bash
+   nvim +PlugInstall +qall
    ```
