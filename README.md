@@ -5,23 +5,29 @@ Este repositório contém arquivos de configuração personalizados para o Vim e
 ## Índice
 
 - [Pré-requisitos](#pré-requisitos)
+- [Plugins](#plugins)
 - [Instalação](#instalação)
 - [Configurando o Vim](#configurando-o-vim)
 - [Configurando o Neovim](#configurando-o-neovim)
 - [Atualizando as Configurações](#atualizando-as-configurações)
-- [Plugins](#plugins)
 - [Temas](#temas)
 
 ## Pré-requisitos
 
 Antes de começar, certifique-se de que você tenha o Vim ou o Neovim instalados no seu sistema.
 
-- **Instalar Vim**: ```bash
-                    apt install vim
-                    ```
-- **Instalar Neovim**: ```bash
-                       apt install neovim
-                       ```
+- **Instalar Vim**:
+  ```bash
+  apt install vim
+  ```
+- **Instalar Neovim**:
+  ```bash
+  apt install neovim
+  ```
+  
+## Plugins
+Instale o Vim Plug seguinte o tutorial oficial:
+https://github.com/junegunn/vim-plug
 
 ## Configurando o Vim
 
